@@ -1,4 +1,4 @@
-# Curso de Closures y Scope en JavaScript
+# 📝 Curso de Closures y Scope en JavaScript
 
 - Clase 1: Introduccion
 - Clase 2: [Qué es el Scope y cómo funciona el Global Scope](#Qué-es-el-Scope-y-cómo-funciona-el-Global-Scope)
